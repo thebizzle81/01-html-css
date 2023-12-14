@@ -36,9 +36,9 @@ There were some other minor tweaks and alterations, and I had to make two second
 
 **Horiseon Website Before and After:** Comparison of original lower fold of website with smaller fonts and updated version with more accessibility-friendly larger fonts.
 
-![alt text](/assets/images/lowerfold0.jpg)
+![alt text](/Assets/images/lowerfold0.jpg)
 
-![alt text](/assets/images/lowerfold2.jpg)
+![alt text](/Assets/images/lowerfold2.jpg)
 
 ## Credits
 
