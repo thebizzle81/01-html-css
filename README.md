@@ -26,19 +26,13 @@ Finally, I made the main Horiseon logo clickable to _index.html_ because I think
 
 There were some other minor tweaks and alterations, and I had to make two secondary passes to restructure, reorient, and in some cases remove my own changes. While the final product possesses a relatively small (though important) number of changes for a relatively small web page, my mistakes or oversights during my initial passes allowed me to experiment with elements, attributes, formatting, styling, and so forth; as well as observe the interplay of greater synergies between pieces of the code and between the html and css documents. It is difficult for me to judge how successful I was in this early phase of the course; but whatever errors in choices of code and its configuration made by the author are, I hope, lessons to be learned on the path.
 
-##
-## Installation
-
-### What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
-
-##
 ## Usage
 
 **Horiseon Website Before and After:** Comparison of original lower fold of website with smaller fonts and updated version with more accessibility-friendly larger fonts.
 
-![alt text](/Assets/images/lowerfold0.jpg)
+![alt text](/assets/images/lowerfold0.jpg)
 
-![alt text](/Assets/images/lowerfold2.jpg)
+![alt text](/assets/images/lowerfold2.jpg)
 
 ## Credits
 
